@@ -1,3 +1,10 @@
+@import "sassStyles/normalize.scss";
+@import "sassStyles/variables.scss";
+@import "sassStyles/clean.scss";
+@import "sassStyles/container.scss";
+@import "sassStyles/functions.scss";
+
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
